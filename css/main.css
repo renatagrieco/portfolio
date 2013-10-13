@@ -170,15 +170,17 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-.thumbs ul {
-	display: inline;
+.gallery {
+
+
 }
 
-ul.thumbs {
-	list-style-type: none;
-}
-
-.thumbs li {
+.thumb {
 	float: left;
-	width: 18em;
+	width: 14em;
+	margin: 1em;
+}
+
+.empty {
+	clear: both;
 }
