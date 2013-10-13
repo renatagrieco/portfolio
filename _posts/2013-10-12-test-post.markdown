@@ -2,7 +2,7 @@
 layout: post
 title:  "Totem"
 date:   2013-10-12 19:57:39
-categories: jekyll update
+categories: illustration
 thumbnail: /assets/totem.png
 ---
 
