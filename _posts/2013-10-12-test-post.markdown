@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Test Post"
+date:   2013-10-12 19:57:39
+categories: jekyll update
+---
+
+This is my first post, testing how this thing works. Will this work? I don't know, we'll just have to wait and *see*.
+Seems like it worked! Did we fix the other problem yet?
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
