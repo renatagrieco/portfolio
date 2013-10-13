@@ -27,7 +27,7 @@ p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #aaa; }
 
 /*****************************************************************************/
 /*
@@ -63,6 +63,11 @@ ul.posts span {
   line-height: 1.5em;
 }
 
+.site .header {
+  border-bottom: 2px solid #eee;
+  margin-bottom: 2em;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
@@ -87,7 +92,7 @@ ul.posts span {
 }
 
 .site .header a.extra:hover {
-  color: #000;
+  color: #F90;
 }
 
 .site .meta {
