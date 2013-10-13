@@ -5,24 +5,25 @@ title: Renata Grieco
 
 <div id="home">
   <h1>Blog Posts</h1>
-  <ul class="posts">
+  <ul class="thumbs">
     {% for post in site.posts %}
       <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
-      <a href="{{ BASE_PATH }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      <li>
   	<!-- <hr /> -->
   	<p>{% if post.thumbnail %}
-  	<a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.thumbnail }}" style="height: 250px" align="center" /></a>
+  	<a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.thumbnail }}" style="width: 200px" align="center" /></a>
   	{% else %}
   	<img src="/assets/nothumbnail.png"
-    style="height: 280px" align="center" />
+    style="width: 200px" align="center" />
   	{% endif %}</p>
-  	<p>&nbsp;</p>
+  	<!-- <p>&nbsp;</p> -->
+  	<a href="{{ BASE_PATH }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
   	<p>
-  	{{ post.content | strip_html | truncatewords:20 }}
+  	{{ post.content | strip_html | truncatewords:8 }}
   	</p>
-  	<p>
   	<!-- <a class="btn" href="{{ BASE_PATH }}{{ post.url }}">Read more...</a> -->
-  	</p>
+	</li>
+  	</ul>
     {% endfor %}
-  </ul>
+  </p>
 </div>
