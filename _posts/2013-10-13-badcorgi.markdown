@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bad Corgi"
+date:   2013-10-13 13:06:39
+categories: illustration
+thumbnail: /assets/badcorgi.png
+---
+
+Personal project of a dog I saw on the street.
+
+![Bad Corgi]({{ site.url }}/assets/badcorgi.png)
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
