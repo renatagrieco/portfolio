@@ -26,7 +26,7 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
-a:hover   { color: #000; }
+a:hover   { color: #F90; }
 a:visited { color: #aaa; }
 
 /*****************************************************************************/
@@ -176,8 +176,13 @@ ul.posts span {
 	width: 14em;
 	margin: 1em;
 }
+
 .site .thumb a {
 	text-decoration: none;
+}
+
+.site .thumb h2 {
+	margin-top: .5em;
 }
 
 .empty {
