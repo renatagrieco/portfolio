@@ -176,6 +176,9 @@ ul.posts span {
 	width: 14em;
 	margin: 1em;
 }
+.site .thumb a {
+	text-decoration: none;
+}
 
 .empty {
 	clear: both;
