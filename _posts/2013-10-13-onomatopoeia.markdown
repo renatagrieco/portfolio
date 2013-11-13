@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: work
 title:  "Onomatopoeia"
 date:   2013-10-13 13:06:39
 categories: illustration

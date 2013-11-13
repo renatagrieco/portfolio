@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: work
 title:  "Bacon in Games"
 date:   2013-10-14 16:57:39
 categories: illustration
