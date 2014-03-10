@@ -8,7 +8,7 @@ thumbnail: /assets/onomatopoeia.png
 
 Onomatopoeia for Illustration Friday.
 
-![Onomatopoeia]({{ site.url }}/assets/onomatopoeia.png)
+![Onomatopoeia]({{ site.baseurl }}/assets/onomatopoeia.png)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
