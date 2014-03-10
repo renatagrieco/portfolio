@@ -3,12 +3,12 @@ layout: work
 title:  "Totem"
 date:   2013-10-12 19:57:39
 categories: illustration
-thumbnail: /assets/totem.png
+thumbnail: {{ site.baseurl }}/assets/totem.png
 ---
 
 Totem for Illustration Friday.
 
-![Totem]({{ site.url }}/assets/totem.png)
+![Totem]({{ site.baseurl }}/assets/totem.png)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
