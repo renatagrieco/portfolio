@@ -9,7 +9,7 @@ title: Renata Grieco
     	{% if post.categories contains 'illustration' %}
 	<div class="thumb">
 		{% if post.thumbnail %}
-  	<a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ site.baseurl }}{{ post.thumbnail }}" style="width: 200px" align="center" /></a>
+  	<a href="{{ site.baseurl }}{{ BASE_PATH }}{{ post.url }}"><img src="{{ site.baseurl }}{{ post.thumbnail }}" style="width: 200px" align="center" /></a>
   	{% else %}
   	<a href="{{ BASE_PATH }}{{ post.url }}"><img src="/assets/nothumbnail.png"
     style="width: 200px" align="center" /></a>
