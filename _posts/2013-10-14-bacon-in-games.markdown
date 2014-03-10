@@ -8,7 +8,7 @@ thumbnail: /assets/baconingames.png
 
 Illustration for an article on bacon in Games on Bacon! the Game, the Blog.
 
-![Bacon in Games]({{ site.url }}/assets/baconingames.png)
+![Bacon in Games]({{ site.baseurl }}/assets/baconingames.png)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
