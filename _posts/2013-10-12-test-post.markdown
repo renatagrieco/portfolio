@@ -3,7 +3,7 @@ layout: work
 title:  "Totem"
 date:   2013-10-12 19:57:39
 categories: illustration
-thumbnail: {{ site.baseurl }}/assets/totem.png
+thumbnail: /assets/totem.png
 ---
 
 Totem for Illustration Friday.
