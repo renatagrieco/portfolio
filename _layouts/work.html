@@ -11,7 +11,7 @@ layout: default
         {% if page.previous.url %} 
 	    {% if page.previous.url contains '/illustration/' %}
                 <a href="{{ site.baseurl }}{{page.previous.url}}" title="Previous Post: 
-{{page.previous.title}}">&laquo; {{page.previous.title}}</a> 
+{{page.previous.title}}"> {{page.previous.title}}</a> 
         {% endif %} 
         {% endif %} 
         </div> 
@@ -20,7 +20,7 @@ layout: default
         {% if page.next.url %} 
 	    {% if page.next.url contains '/illustration/' %}
                 <a href="{{ site.baseurl }}{{page.next.url}}" title="next Post: 
-{{page.next.title}}">{{page.next.title}} &raquo; </a> 
+{{page.next.title}}">{{page.next.title}} </a> 
 		{% else %}
 				<a href="{{ site.baseurl }}/">home</a>
         {% endif %} 
