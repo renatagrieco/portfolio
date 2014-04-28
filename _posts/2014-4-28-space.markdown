@@ -1,0 +1,12 @@
+---
+layout: work
+title:  "Space"
+date:   2014-4-28 18:23:00
+categories: illustration
+thumbnail: /assets/space.png
+---
+
+Space for Illustration Friday.
+
+![Space]({{ site.baseurl }}/assets/space.png)
+
