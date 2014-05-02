@@ -1,0 +1,14 @@
+---
+layout: work
+title:  "Pattern"
+date:   2014-01-12 13:06:39
+categories: illustration
+thumbnail: /assets/pattern.png
+---
+
+Pattern for Illustration Friday.
+
+![Pattern]({{ site.baseurl }}/assets/pattern.png)
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com

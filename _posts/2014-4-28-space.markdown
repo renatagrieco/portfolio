@@ -1,7 +1,7 @@
 ---
 layout: work
 title:  "Space"
-date:   2014-4-28 18:23:00
+date:   2014-04-28 18:23:00
 categories: illustration
 thumbnail: /assets/space.png
 ---
@@ -10,3 +10,5 @@ Space for Illustration Friday.
 
 ![Space]({{ site.baseurl }}/assets/space.png)
 
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
